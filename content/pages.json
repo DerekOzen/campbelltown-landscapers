@@ -96,5 +96,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-29T11:43:28.823Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-7",
+    "path": "/it",
+    "type": "page",
+    "title": "IT",
+    "seoTitle": "IT Support for Veterinary Clinics | TFCS",
+    "seoDescription": "IT support for veterinary clinics across NSW, VIC, QLD and WA. Keep practice software, imaging and patient records running and secure. Call 1300 558 504.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-29T23:14:25.728Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-29T23:14:25.728Z",
+    "createdBy": "derek"
   }
 ]
