@@ -16,5 +16,21 @@
     "createdBy": "derek",
     "category": "Home",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/land",
+    "type": "page",
+    "title": "Land",
+    "seoTitle": "Landscaping Campbelltown | Campbelltown Landscapers",
+    "seoDescription": "Landscaping Campbelltown and Macarthur: design, paving, retaining walls, turf and gardens by a licensed local team. Free fixed-price quote, no call-out fee.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "published",
+    "updatedAt": "2026-07-29T03:13:22.711Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-29T03:13:22.711Z",
+    "createdBy": "derek"
   }
 ]
