@@ -32,5 +32,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-29T07:11:10.401Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-3",
+    "path": "/contact",
+    "type": "page",
+    "title": "Contact",
+    "seoTitle": "Contact | Campbelltown Landscapers",
+    "seoDescription": "Contact Campbelltown Landscapers for a free, fixed-price landscaping quote. Call 0457 897 659, open 7am to 7pm, 7 days. No call-out fee.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-29T10:24:42.199Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-29T10:24:42.199Z",
+    "createdBy": "derek"
   }
 ]
