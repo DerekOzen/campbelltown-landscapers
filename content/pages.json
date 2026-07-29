@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/home",
     "type": "page",
     "title": "Home",
     "seoTitle": "Landscaping Campbelltown | Campbelltown Landscapers",
@@ -10,16 +10,16 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-07-29T02:54:20.527Z",
+    "updatedAt": "2026-07-29T03:17:00.339Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-29T02:54:05.889Z",
     "createdBy": "derek",
     "category": "Home",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
-    "path": "/land",
+    "path": "/",
     "type": "page",
     "title": "Land",
     "seoTitle": "Landscaping Campbelltown | Campbelltown Landscapers",
@@ -28,9 +28,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-07-29T03:13:33.173Z",
+    "updatedAt": "2026-07-29T03:17:00.339Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-29T03:13:22.711Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
