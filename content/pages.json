@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Landscaping Campbelltown | Campbelltown Landscapers",
@@ -10,9 +10,10 @@
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
     "status": "published",
-    "updatedAt": "2026-07-29T02:54:05.889Z",
+    "updatedAt": "2026-07-29T02:54:16.484Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-29T02:54:05.889Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
