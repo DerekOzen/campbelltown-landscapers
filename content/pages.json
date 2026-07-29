@@ -80,5 +80,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-29T10:26:03.097Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-6",
+    "path": "/privacy",
+    "type": "page",
+    "title": "Privacy",
+    "seoTitle": "Privacy Policy | Campbelltown Landscapers",
+    "seoDescription": "How Campbelltown Landscapers collects, uses and protects your personal information, consistent with the Australian Privacy Principles.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-07-29T11:43:28.823Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-29T11:43:28.823Z",
+    "createdBy": "derek"
   }
 ]
