@@ -113,5 +113,21 @@
     "createdAt": "2026-07-29T23:14:25.728Z",
     "createdBy": "derek",
     "isHome": false
+  },
+  {
+    "id": "pg-8",
+    "path": "/paving-services",
+    "type": "page",
+    "title": "Paving Services",
+    "seoTitle": "Paving Campbelltown | Campbelltown Landscapers",
+    "seoDescription": "Paving in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:23:21.922Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-31T03:23:21.922Z",
+    "createdBy": "derek"
   }
 ]
