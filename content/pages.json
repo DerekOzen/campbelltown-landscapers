@@ -199,5 +199,21 @@
     "createdAt": "2026-07-31T03:52:42.253Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-13",
+    "path": "/tree-services",
+    "type": "service",
+    "title": "Tree Services",
+    "seoTitle": "Tree services Campbelltown | Campbelltown Landscapers",
+    "seoDescription": "Tree services in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-07-31T04:04:05.376Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-31T04:04:05.376Z",
+    "createdBy": "derek"
   }
 ]
