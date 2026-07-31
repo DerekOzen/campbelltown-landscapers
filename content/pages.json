@@ -1,22 +1,5 @@
 [
   {
-    "id": "pg-4",
-    "path": "/about",
-    "type": "page",
-    "title": "About",
-    "seoTitle": "About | Campbelltown Landscapers",
-    "seoDescription": "About Campbelltown Landscapers: an owner-run, licensed local team (353-827-C) with 10+ years landscaping across the Macarthur region.",
-    "layout": "mockup",
-    "headerPartId": "header-1",
-    "footerPartId": "footer-1",
-    "status": "deleted",
-    "updatedAt": "2026-07-31T11:38:41.388Z",
-    "updatedBy": "derek",
-    "createdAt": "2026-07-29T10:25:20.708Z",
-    "createdBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-5",
     "path": "/terms-conditions",
     "type": "page",
