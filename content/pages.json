@@ -235,7 +235,7 @@
   },
   {
     "id": "pg-15",
-    "path": "/turf-laying",
+    "path": "/services/turf-laying",
     "type": "service",
     "title": "Turf Laying",
     "seoTitle": "Turf laying Campbelltown | Campbelltown Landscapers",
@@ -244,7 +244,7 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-07-31T04:06:16.349Z",
+    "updatedAt": "2026-07-31T04:06:25.055Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-31T04:05:54.929Z",
     "createdBy": "derek"
