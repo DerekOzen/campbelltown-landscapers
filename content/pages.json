@@ -253,7 +253,7 @@
   },
   {
     "id": "pg-16",
-    "path": "/mulching",
+    "path": "/services/mulching",
     "type": "service",
     "title": "Mulching",
     "seoTitle": "Mulching Campbelltown | Campbelltown Landscapers",
@@ -261,8 +261,8 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-07-31T07:08:13.685Z",
+    "status": "published",
+    "updatedAt": "2026-07-31T11:19:50.698Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-31T07:08:13.685Z",
     "createdBy": "derek"
