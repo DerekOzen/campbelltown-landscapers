@@ -283,5 +283,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-31T11:40:04.588Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-19",
+    "path": "/terms-conditions",
+    "type": "page",
+    "title": "Terms & Conditions",
+    "seoTitle": "Terms & Conditions | Campbelltown Landscapers",
+    "seoDescription": "Terms and Conditions for Campbelltown Landscapers landscaping services across the Macarthur region.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-07-31T11:41:10.260Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-31T11:41:10.260Z",
+    "createdBy": "derek"
   }
 ]
