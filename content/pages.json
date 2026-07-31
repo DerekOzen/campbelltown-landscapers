@@ -60,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
-    "updatedAt": "2026-07-30T23:05:09.120Z",
+    "status": "deleted",
+    "updatedAt": "2026-07-31T11:38:41.388Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-29T10:25:20.708Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-5",
