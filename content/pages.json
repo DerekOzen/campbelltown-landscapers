@@ -176,10 +176,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
-    "updatedAt": "2026-07-31T03:49:34.069Z",
+    "status": "published",
+    "updatedAt": "2026-07-31T03:49:46.091Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-31T03:49:34.069Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "category": "Services"
   }
 ]
