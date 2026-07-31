@@ -248,5 +248,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-31T04:05:54.929Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-16",
+    "path": "/mulching",
+    "type": "service",
+    "title": "Mulching",
+    "seoTitle": "Mulching Campbelltown | Campbelltown Landscapers",
+    "seoDescription": "Mulching in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-07-31T07:08:13.685Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-31T07:08:13.685Z",
+    "createdBy": "derek"
   }
 ]
