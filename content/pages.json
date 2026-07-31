@@ -182,5 +182,21 @@
     "createdAt": "2026-07-31T03:49:34.069Z",
     "createdBy": "derek",
     "category": "Services"
+  },
+  {
+    "id": "pg-12",
+    "path": "/gardening-services",
+    "type": "page",
+    "title": "Gardening Services",
+    "seoTitle": "Gardening & planting Campbelltown | Campbelltown Landscapers",
+    "seoDescription": "Gardening & planting in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-07-31T03:52:42.253Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-07-31T03:52:42.253Z",
+    "createdBy": "derek"
   }
 ]
