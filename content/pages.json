@@ -116,7 +116,7 @@
   },
   {
     "id": "pg-8",
-    "path": "/paving-services",
+    "path": "/services/paving",
     "type": "page",
     "title": "Paving Services",
     "seoTitle": "Paving Campbelltown | Campbelltown Landscapers",
@@ -125,7 +125,7 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-07-31T03:52:06.470Z",
+    "updatedAt": "2026-07-31T04:06:46.928Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-31T03:23:21.922Z",
     "createdBy": "derek",
