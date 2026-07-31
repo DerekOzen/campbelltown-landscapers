@@ -189,7 +189,7 @@
   },
   {
     "id": "pg-13",
-    "path": "/services//tree",
+    "path": "/services/tree",
     "type": "service",
     "title": "Tree Services",
     "seoTitle": "Tree services Campbelltown | Campbelltown Landscapers",
@@ -198,7 +198,7 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "status": "published",
-    "updatedAt": "2026-07-31T04:10:03.480Z",
+    "updatedAt": "2026-07-31T11:42:19.878Z",
     "updatedBy": "derek",
     "createdAt": "2026-07-31T04:04:05.376Z",
     "createdBy": "derek"
