@@ -54,8 +54,18 @@
             "href": "/services/gardening"
           }
         ]
+      },
+      {
+        "id": "i4ruojkd",
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "id": "ixmr42i8",
+        "label": "Pricing",
+        "href": "/#pricing"
       }
     ],
-    "updatedAt": "2026-08-01T08:21:51.016Z"
+    "updatedAt": "2026-08-01T08:22:55.838Z"
   }
 ]
