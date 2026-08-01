@@ -16,9 +16,16 @@
       {
         "id": "i5n4dyql",
         "label": "Services",
-        "href": ""
+        "href": "",
+        "children": [
+          {
+            "id": "i157uq87",
+            "label": "Mulching",
+            "href": "/services/mulching"
+          }
+        ]
       }
     ],
-    "updatedAt": "2026-08-01T01:13:15.508Z"
+    "updatedAt": "2026-08-01T01:13:41.213Z"
   }
 ]
