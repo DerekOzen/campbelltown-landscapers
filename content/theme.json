@@ -1,24 +1,19 @@
 {
   "colors": [
     {
-      "id": "2",
-      "name": "Colour 2",
+      "id": "1",
+      "name": "Colour 1",
       "value": "#e0a72e"
     },
     {
-      "id": "3",
+      "id": "2",
       "name": "Colour 2",
       "value": "#2e7d4f"
     },
     {
-      "id": "4",
+      "id": "3",
       "name": "Colour 3",
       "value": "#ffffff"
-    },
-    {
-      "id": "5",
-      "name": "Colour 4",
-      "value": "#9fbaa7"
     }
   ],
   "fonts": {
