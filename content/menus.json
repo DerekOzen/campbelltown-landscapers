@@ -22,10 +22,40 @@
             "id": "i157uq87",
             "label": "Mulching",
             "href": "/services/mulching"
+          },
+          {
+            "id": "i468wcfg",
+            "label": "Paving",
+            "href": "/services/paving"
+          },
+          {
+            "id": "ima1oij4",
+            "label": "Retainer Walls",
+            "href": "/services/retainer-wall-builders"
+          },
+          {
+            "id": "i44v77r3",
+            "label": "Tree Services",
+            "href": "/services/tree"
+          },
+          {
+            "id": "ith37ipn",
+            "label": "Tur Laying",
+            "href": "/services/turf-laying"
+          },
+          {
+            "id": "i0ox22p5",
+            "label": "Weeding",
+            "href": "/services/weeding"
+          },
+          {
+            "id": "iovcnyg6",
+            "label": "Gardening",
+            "href": "/services/gardening"
           }
         ]
       }
     ],
-    "updatedAt": "2026-08-01T02:39:40.153Z"
+    "updatedAt": "2026-08-01T08:21:51.016Z"
   }
 ]
