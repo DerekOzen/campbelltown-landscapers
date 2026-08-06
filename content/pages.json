@@ -196,5 +196,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-07-31T11:47:22.012Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-14",
+    "path": "/thank-you",
+    "type": "page",
+    "title": "Thank You",
+    "seoTitle": "Thank you | Campbelltown Landscapers",
+    "seoDescription": "Thanks — your free, fixed-price landscaping quote request has been received. The Campbelltown Landscapers team will be in touch shortly.",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-08-06T21:38:29.652Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-08-06T21:38:29.652Z",
+    "createdBy": "derek"
   }
 ]
