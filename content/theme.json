@@ -20,5 +20,14 @@
     "heading": "",
     "body": "",
     "button": ""
+  },
+  "backToTop": {
+    "enabled": true,
+    "position": "br",
+    "shape": "round",
+    "icon": "chevron",
+    "bg": "#2e7d4f",
+    "fg": "#ffffff",
+    "size": 48
   }
 }
