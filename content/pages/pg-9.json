@@ -78,10 +78,76 @@
   "body": "",
   "_schemas": [
     {
-      "type": "WebPage",
+      "type": "Custom",
       "data": {
         "@context": "https://schema.org",
-        "@type": "WebPage"
+        "@graph": [
+          {
+            "@id": "https://campbelltownlandscapers.com.au/#website",
+            "@type": "WebSite",
+            "inLanguage": "en-AU",
+            "name": "Campbelltown Landscapers",
+            "publisher": {
+              "@id": "https://campbelltownlandscapers.com.au/#localbusiness"
+            },
+            "url": "https://campbelltownlandscapers.com.au/"
+          },
+          {
+            "@id": "https://campbelltownlandscapers.com.au/#localbusiness",
+            "@type": "LocalBusiness",
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "City of Campbelltown"
+              },
+              {
+                "@type": "Place",
+                "name": "Macarthur region, New South Wales"
+              }
+            ],
+            "contactPoint": [
+              {
+                "@type": "ContactPoint",
+                "areaServed": "AU",
+                "availableLanguage": "English",
+                "contactType": "customer service",
+                "telephone": "+61 451 267 287"
+              }
+            ],
+            "description": "Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.",
+            "name": "Campbelltown Landscapers",
+            "openingHoursSpecification": {
+              "@type": "OpeningHoursSpecification",
+              "closes": "19:00",
+              "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+              ],
+              "opens": "07:00"
+            },
+            "telephone": "+61 457 897 659",
+            "url": "https://campbelltownlandscapers.com.au/"
+          },
+          {
+            "@id": "https://campbelltownlandscapers.com.au/#webpage",
+            "@type": "WebPage",
+            "about": {
+              "@id": "https://campbelltownlandscapers.com.au/#localbusiness"
+            },
+            "description": "Landscaping Campbelltown and Macarthur: design, paving, retaining walls, turf and gardens by a licensed local team. Free fixed-price quote, no call-out fee.",
+            "inLanguage": "en-AU",
+            "isPartOf": {
+              "@id": "https://campbelltownlandscapers.com.au/#website"
+            },
+            "name": "Landscaping Campbelltown",
+            "url": "https://campbelltownlandscapers.com.au/"
+          }
+        ]
       }
     }
   ]
