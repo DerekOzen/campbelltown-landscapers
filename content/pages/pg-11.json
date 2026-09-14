@@ -51,7 +51,7 @@
       "props": {
         "label": "One team for the whole yard",
         "role": "section",
-        "html": "<section class=\"section\">\n  <div class=\"wrap narrow\" style=\"text-align:center\">\n    <span class=\"eyebrow\">More services</span>\n    <h2>One team for the whole yard</h2>\n    <p class=\"lead\" style=\"margin-bottom:6px\">Explore the rest of what we do across Campbelltown and Macarthur.</p>\n    <div class=\"chips\"><a class=\"chip\" href=\"landscape-design.html\">Landscape design</a><a class=\"chip\" href=\"paving.html\">Paving</a><a class=\"chip\" href=\"retaining-walls.html\">Retaining walls</a><a class=\"chip\" href=\"turf-laying.html\">Turf laying</a><a class=\"chip\" href=\"gardening.html\">Gardening &amp; planting</a><a class=\"chip\" href=\"mulching.html\">Mulching</a><a class=\"chip\" href=\"tree-services.html\">Tree services</a></div>\n  </div>\n</section>"
+        "html": "<section class=\"section\">\n  <div class=\"wrap narrow\" style=\"text-align:center\">\n    <span class=\"eyebrow\">More services</span>\n    <h2>One team for the whole yard</h2>\n    <p class=\"lead\" style=\"margin-bottom: 6px;\">Explore the rest of what we do across Campbelltown and Macarthur.</p>\n    <div class=\"chips\" style=\"\"><a class=\"chip\" href=\"/\">Landscape design</a><a class=\"chip\" href=\"/services/paving\">Paving</a><a class=\"chip\" href=\"/services/retainer-wall-builders\">Retaining walls</a><a class=\"chip\" href=\"/services/turf-laying\">Turf laying</a><a class=\"chip\" href=\"/services/gardening\">Gardening &amp; planting</a><a class=\"chip\" href=\"/services/mulching\">Mulching</a><a class=\"chip\" href=\"/services/tree\">Tree services</a></div>\n  </div>\n</section>"
       }
     },
     {
