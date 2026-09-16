@@ -232,10 +232,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T05:00:55.192Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-08-06T21:38:29.652Z",
     "createdBy": "derek",
-    "noindex": true
+    "noindex": true,
+    "featuredImage": "/uploads/campbelltown-landscapers-logo-78e57bc1.jpg",
+    "featuredImageAlt": "Campbelltown Landscapers Thank you"
   }
 ]
