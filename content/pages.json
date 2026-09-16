@@ -196,10 +196,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T05:00:00.705Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T11:41:10.260Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/campbelltown-landscapers-logo-78e57bc1.jpg",
+    "featuredImageAlt": "Campbelltown Landscapers Terms and Conditions"
   },
   {
     "id": "pg-20",
