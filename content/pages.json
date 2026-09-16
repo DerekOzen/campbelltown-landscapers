@@ -10,11 +10,13 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:19:59.364Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T03:23:21.922Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImageAlt": "Campbelltown Landscapers team installing outdoor stone paving tiles and leveling stone steps in a modern backyard renovation.",
+    "featuredImage": "/uploads/paving-5fd192ce.jpg"
   },
   {
     "id": "pg-9",
