@@ -122,10 +122,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:32:28.355Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T04:05:54.929Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImageAlt": "Campbelltown Landscapers team installing new lawn turf rolls for a residential backyard landscape transformation.",
+    "featuredImage": "/uploads/turf-laying-29918c5c.jpg"
   },
   {
     "id": "pg-16",
