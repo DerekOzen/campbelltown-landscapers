@@ -104,10 +104,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:29:49.447Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T04:04:05.376Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/tree-removal-5d882ecd.jpg",
+    "featuredImageAlt": "Campbelltown Landscapers arborist team performing tree removal and trimming services using safety harnesses and chainsaws."
   },
   {
     "id": "pg-15",
