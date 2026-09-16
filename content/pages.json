@@ -140,10 +140,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:39:06.080Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T07:08:13.685Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImage": "/uploads/mulching-8b72a28d.jpg",
+    "featuredImageAlt": "Campbelltown Landscapers crew spreading fresh mulch around garden plants for residential soil protection and garden maintenance."
   },
   {
     "id": "pg-17",
