@@ -85,11 +85,13 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:27:19.728Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T03:52:42.253Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImage": "/uploads/gardening-planting-22fed390.jpg",
+    "featuredImageAlt": "Campbelltown Landscapers crew planting new greenery and maintaining garden beds in a modern backyard layout."
   },
   {
     "id": "pg-13",
