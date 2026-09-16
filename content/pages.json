@@ -66,11 +66,13 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:23:51.263Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T03:49:34.069Z",
     "createdBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "featuredImage": "/uploads/weeding-18b4a697.jpg",
+    "featuredImageAlt": "Campbelltown Landscapers providing garden maintenance and weeding services in a residential bark-mulched garden bed."
   },
   {
     "id": "pg-12",
