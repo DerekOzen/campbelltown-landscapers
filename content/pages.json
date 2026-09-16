@@ -160,10 +160,12 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
     "status": "published",
-    "updatedAt": "2026-09-14T04:07:38.247Z",
-    "updatedBy": "joshua",
+    "updatedAt": "2026-09-16T04:59:24.048Z",
+    "updatedBy": "gabriel",
     "createdAt": "2026-07-31T11:06:51.879Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "featuredImageAlt": "Campbelltown Landscapers Privacy Policy",
+    "featuredImage": "/uploads/campbelltown-landscapers-logo-78e57bc1.jpg"
   },
   {
     "id": "pg-18",
