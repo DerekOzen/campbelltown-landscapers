@@ -492,7 +492,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#webpage\",\"@type\":\"WebPage\",\"about\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"description\":\"Landscaping Campbelltown and Macarthur: design, paving, retaining walls, turf and gardens by a licensed local team. Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"name\":\"Landscaping Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/\"}]}",
       "hash": "ffd8954c31c24999543f95f67378b9b3f95df8d87bace1c6964b8cb648451a96",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -527,7 +527,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:04.178Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-4EFC77FB",
@@ -538,7 +541,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/paving/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/paving/#breadcrumb\"},\"description\":\"Paving in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/paving/#service\"},\"name\":\"Paving in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/paving-5fd192ce.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/paving/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/paving/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Paving in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Paving\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Paving\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/paving/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/paving/\",\"name\":\"Paving in Campbelltown\",\"position\":2}]}]}",
       "hash": "da437f3071183461ba949129d81f4e2bc2a4ec0c2a94ebeb1c5143063dc7c2aa",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -573,7 +576,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/paving/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:04.491Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-096E5A51",
@@ -584,7 +590,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/#breadcrumb\"},\"description\":\"Retaining walls in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/#service\"},\"name\":\"Retaining walls in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/retaining-walls-08905983.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Retaining walls in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Retaining Walls\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Retaining wall construction\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/retainer-wall-builders/\",\"name\":\"Retaining walls in Campbelltown\",\"position\":2}]}]}",
       "hash": "345302ceed7b9c4444c81d95772a8b256480c8aff06c5e939943fc444139b881",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -619,7 +625,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/retainer-wall-builders/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:04.766Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-A375C9B7",
@@ -630,7 +639,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/weeding/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/weeding/#breadcrumb\"},\"description\":\"Weeding in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/weeding/#service\"},\"name\":\"Weeding in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/weeding-18b4a697.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/weeding/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/weeding/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Weeding in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Weeding\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Weed control\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/weeding/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/weeding/\",\"name\":\"Weeding in Campbelltown\",\"position\":2}]}]}",
       "hash": "b6a2b0e6fa758357cd73749f970e62af880344c85d6d3832099c597a811909a7",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -665,7 +674,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/weeding/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:05.028Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-E88D837E",
@@ -676,7 +688,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/gardening/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/gardening/#breadcrumb\"},\"description\":\"Gardening and planting in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/gardening/#service\"},\"name\":\"Gardening and planting in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/gardening-planting-22fed390.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/gardening/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/gardening/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Gardening and planting in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Gardening and Planting\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Garden maintenance and planting\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/gardening/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/gardening/\",\"name\":\"Gardening and planting in Campbelltown\",\"position\":2}]}]}",
       "hash": "ba4504116d1ba84608881ebaacc6487d5336a45285e22f018ca1ad59770b078d",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -711,7 +723,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/gardening/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:05.317Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-7633CC7D",
@@ -722,7 +737,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/tree/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/tree/#breadcrumb\"},\"description\":\"Tree services in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/tree/#service\"},\"name\":\"Tree services in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/tree-removal-5d882ecd.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/tree/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/tree/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Tree services in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Tree Services\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Tree services\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/tree/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/tree/\",\"name\":\"Tree services in Campbelltown\",\"position\":2}]}]}",
       "hash": "34c9c3af1f1ba887b17761c7d1dc2fe34d3cbd322d547593c965bccc8e4dd2b3",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -757,7 +772,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/tree/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:05.563Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-63D4DFE8",
@@ -768,7 +786,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/turf-laying/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/turf-laying/#breadcrumb\"},\"description\":\"Turf laying in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/turf-laying/#service\"},\"name\":\"Turf laying in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/turf-laying-29918c5c.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/turf-laying/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/turf-laying/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Turf laying in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Turf Laying\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Turf laying\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/turf-laying/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/turf-laying/\",\"name\":\"Turf laying in Campbelltown\",\"position\":2}]}]}",
       "hash": "8356a4c0b108e65540afbfb7f1650ed77b8bda88bbaf50c06da3c8c37c343b9b",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -803,7 +821,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/turf-laying/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:05.942Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-59C3FD04",
@@ -814,7 +835,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/mulching/#webpage\",\"@type\":\"WebPage\",\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/mulching/#breadcrumb\"},\"description\":\"Mulching in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"mainEntity\":{\"@id\":\"https://campbelltownlandscapers.com.au/services/mulching/#service\"},\"name\":\"Mulching in Campbelltown\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/mulching-8b72a28d.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/services/mulching/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/mulching/#service\",\"@type\":\"Service\",\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Mulching in Campbelltown and the Macarthur region by a licensed local team (353-827-C). Free fixed-price quote, no call-out fee.\",\"name\":\"Mulching\",\"provider\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"serviceType\":\"Mulching\"},{\"@id\":\"https://campbelltownlandscapers.com.au/services/mulching/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/services/mulching/\",\"name\":\"Mulching in Campbelltown\",\"position\":2}]}]}",
       "hash": "4da61e2840ee280ad0e75c8eacbfcd367d1d79392a908fd2f6290d330270a378",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -849,7 +870,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/services/mulching/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:06.199Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-3ACFC71A",
@@ -860,7 +884,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#kay\",\"@type\":\"Person\",\"description\":\"Runs Campbelltown Landscapers, with more than 10 years of landscaping experience across the Macarthur region.\",\"name\":\"Kay\",\"worksFor\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"}},{\"@id\":\"https://campbelltownlandscapers.com.au/about/#webpage\",\"@type\":\"AboutPage\",\"about\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#kay\"}],\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/about/#breadcrumb\"},\"description\":\"About Campbelltown Landscapers: an owner-run, licensed local team (353-827-C) with 10+ years landscaping across the Macarthur region.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"name\":\"About Campbelltown Landscapers\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/about/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/about/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/about/\",\"name\":\"About\",\"position\":2}]}]}",
       "hash": "9a1b012e86e01c2dec2777b85655100af1d2e0aab374e0d444546c8c357f8c6f",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -895,7 +919,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/about/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:06.493Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     },
     {
       "recordId": "SCHEMA-1AB464AB",
@@ -906,7 +933,7 @@
       "jsonld": "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"https://campbelltownlandscapers.com.au/#website\",\"@type\":\"WebSite\",\"inLanguage\":\"en-AU\",\"name\":\"Campbelltown Landscapers\",\"publisher\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\",\"@type\":\"LocalBusiness\",\"address\":{\"@type\":\"PostalAddress\",\"addressCountry\":\"AU\",\"addressLocality\":\"Campbelltown\",\"addressRegion\":\"NSW\"},\"areaServed\":[{\"@type\":\"AdministrativeArea\",\"name\":\"City of Campbelltown\"},{\"@type\":\"Place\",\"name\":\"Macarthur region, New South Wales\"}],\"description\":\"Fixed-price landscaping for homeowners and businesses, with one local team handling design, construction, paving, retaining walls, turf and ongoing garden care from start to finish.\",\"image\":\"https://campbelltownlandscapers.com.au/uploads/landscaping-3cb1dc83.jpg\",\"logo\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"name\":\"Campbelltown Landscapers\",\"openingHoursSpecification\":{\"@type\":\"OpeningHoursSpecification\",\"closes\":\"19:00\",\"dayOfWeek\":[\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\",\"Saturday\",\"Sunday\"],\"opens\":\"07:00\"},\"priceRange\":\"$-$$$\",\"telephone\":\"+61 451 267 287\",\"url\":\"https://campbelltownlandscapers.com.au/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/contact/#webpage\",\"@type\":\"ContactPage\",\"about\":{\"@id\":\"https://campbelltownlandscapers.com.au/#localbusiness\"},\"breadcrumb\":{\"@id\":\"https://campbelltownlandscapers.com.au/contact/#breadcrumb\"},\"description\":\"Contact Campbelltown Landscapers for a free, fixed-price landscaping quote. Call 0451 267 287, open 7am to 7pm, 7 days.\",\"inLanguage\":\"en-AU\",\"isPartOf\":{\"@id\":\"https://campbelltownlandscapers.com.au/#website\"},\"name\":\"Contact Campbelltown Landscapers\",\"primaryImageOfPage\":\"https://campbelltownlandscapers.com.au/uploads/campbelltown-landscapers-logo-78e57bc1.jpg\",\"url\":\"https://campbelltownlandscapers.com.au/contact/\"},{\"@id\":\"https://campbelltownlandscapers.com.au/contact/#breadcrumb\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/\",\"name\":\"Home\",\"position\":1},{\"@type\":\"ListItem\",\"item\":\"https://campbelltownlandscapers.com.au/contact/\",\"name\":\"Contact\",\"position\":2}]}]}",
       "hash": "0414055f2399f7cf692b1446279c4f8cf6c591b895daae7667641ee0dece162e",
       "suppress": true,
-      "suppressionStatus": "NOT_TESTED",
+      "suppressionStatus": "PASS",
       "issueSeverity": "WARNING",
       "issueCode": "EXISTING_SCHEMA_SUPPRESSION_NOT_TESTED",
       "schemaVersion": "1.1",
@@ -941,7 +968,10 @@
         "issue_reason": "Custom schema generated and structurally validated; passes the Google Rich Results Test with the three optional LocalBusiness fields (address, priceRange, image) now populated. Suppression of any existing page or plugin schema on this URL is requested but not yet verified in WordPress; confirm no competing schema remains after import.",
         "source_references": "live-page-inspection-2026-09-17;campbelltownlandscapers.com.au/contact/",
         "schema_version": "1.1"
-      }
+      },
+      "verifiedAt": "2026-09-17T00:59:06.767Z",
+      "verifyInfo": "1 total · 1 ours · 0 stray",
+      "verifyReason": ""
     }
   ]
 }
