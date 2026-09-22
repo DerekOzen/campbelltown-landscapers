@@ -239,5 +239,21 @@
     "noindex": true,
     "featuredImage": "/uploads/campbelltown-landscapers-logo-78e57bc1.jpg",
     "featuredImageAlt": "Campbelltown Landscapers Thank you"
+  },
+  {
+    "id": "pg-21",
+    "path": "/landscaping-camden",
+    "type": "location",
+    "title": "Landscaping Camden | Campbelltown Landscapers",
+    "seoTitle": "Landscaping Camden | Campbelltown Landscapers",
+    "seoDescription": "Fixed-price landscaping in Camden, NSW. Design, paving, retaining walls, turf and garden care from a licensed local team. Free quote, no call-out fee. Call 04",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-09-22T01:55:01.849Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-22T01:55:01.849Z",
+    "updatedBy": "joshua"
   }
 ]
