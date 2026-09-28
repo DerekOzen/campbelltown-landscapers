@@ -488,5 +488,53 @@
     "updatedAt": "2026-09-28T00:59:56.832Z",
     "updatedBy": "joshua",
     "isHome": false
+  },
+  {
+    "id": "pg-35",
+    "path": "/blogs",
+    "type": "page",
+    "title": "Landscaping Blog & Guides | Campbelltown Landscapers",
+    "seoTitle": "Landscaping Blog & Guides | Campbelltown Landscapers",
+    "seoDescription": "Landscaping tips, cost guides and how-tos for Campbelltown and the Macarthur region, from the local fixed-price team at Campbelltown Landscapers.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-09-28T01:00:47.432Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-28T01:00:47.432Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-36",
+    "path": "/landscaping-cost-campbelltown-2026",
+    "type": "post",
+    "title": "Landscaping Cost in Campbelltown & Macarthur (2026 Guide) | Campbelltown Landscapers",
+    "seoTitle": "Landscaping Cost in Campbelltown & Macarthur (2026 Guide) | Campbelltown Landscapers",
+    "seoDescription": "What does landscaping cost in Campbelltown? A local 2026 price guide covering garden care, turf, paving and retaining walls, plus free fixed-price quotes.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-09-28T01:00:47.432Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-28T01:00:47.432Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-37",
+    "path": "/sustainable-landscaping-campbelltown-2026",
+    "type": "post",
+    "title": "Sustainable Landscaping Trends for Campbelltown Homes | Campbelltown Landscapers",
+    "seoTitle": "Sustainable Landscaping Trends for Campbelltown Homes | Campbelltown Landscapers",
+    "seoDescription": "Discover sustainable landscaping trends for Campbelltown homes, from drought-smart plants to rainwater harvesting and permeable paving.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-09-28T01:00:47.432Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-28T01:00:47.432Z",
+    "updatedBy": "joshua"
   }
 ]
