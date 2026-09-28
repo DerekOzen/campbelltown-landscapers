@@ -469,5 +469,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-09-28T00:16:45.750Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-34",
+    "path": "/blogs",
+    "type": "page",
+    "title": "Landscaping Blog & Guides | Campbelltown Landscapers",
+    "seoTitle": "Landscaping Blog & Guides | Campbelltown Landscapers",
+    "seoDescription": "Landscaping tips, cost guides and how-tos for Campbelltown and the Macarthur region, from the local fixed-price team at Campbelltown Landscapers.",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-09-28T00:23:06.595Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-09-28T00:23:06.595Z",
+    "updatedBy": "joshua"
   }
 ]
