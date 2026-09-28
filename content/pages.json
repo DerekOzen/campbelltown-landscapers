@@ -499,10 +499,10 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-28T01:00:47.432Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-28T01:00:47.432Z",
+    "updatedAt": "2026-09-28T01:02:43.791Z",
     "updatedBy": "joshua"
   },
   {
@@ -515,10 +515,10 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-28T01:00:47.432Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-28T01:00:47.432Z",
+    "updatedAt": "2026-09-28T01:02:43.791Z",
     "updatedBy": "joshua"
   },
   {
@@ -531,10 +531,10 @@
     "layout": "mockup",
     "headerPartId": "header-5",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-09-28T01:00:47.432Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-28T01:00:47.432Z",
+    "updatedAt": "2026-09-28T01:02:43.791Z",
     "updatedBy": "joshua"
   }
 ]
