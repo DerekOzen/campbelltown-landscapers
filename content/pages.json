@@ -502,9 +502,11 @@
     "status": "published",
     "createdAt": "2026-09-28T01:00:47.432Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-09-28T01:08:44.328Z",
+    "updatedAt": "2026-09-28T01:11:10.052Z",
     "updatedBy": "joshua",
-    "isBlogIndex": true
+    "isBlogIndex": true,
+    "featuredImage": "/uploads/landscaping-wilton-campbelltown-landscap-0d75fc8b.jpg",
+    "featuredImageAlt": "The Campbelltown Landscaping Blog"
   },
   {
     "id": "pg-36",
